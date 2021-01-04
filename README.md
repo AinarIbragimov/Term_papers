@@ -1,2 +1,2 @@
 # Term_papers
- term papers GeekBrains Artificial Intelligence
+ Term papers GeekBrains Artificial Intelligence
